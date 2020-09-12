@@ -2,13 +2,13 @@
     
     <head>
         <title>
-        Mi sitio web desde Este de Estados Unidos
+        Mi sitio web desde el Sur de Brasil
         </title>
     </head>
 
     <body>
 
-        <h1>Hola desde Este de Estados Unidos</h1>
+        <h1>Hola desde el Sur de Brasil</h1>
 
     </body>
 
